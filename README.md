@@ -44,4 +44,4 @@ PM2.5 values are model estimates (CAMS), not ground-sensor measurements. They ar
 A Streamlit app that reads `data/smog.db` and shows key numbers per city, the EDA charts (daily trend, seasonality, hour of day, weather, city comparison) and a summary of the ETL steps.
 
 - Run locally: `streamlit run app.py`
-- Live app: (paste the link here after deploying)
+- Live app: https://sehrishimran402-maker-smog-cast-app-lp9ikz.streamlit.app
